@@ -17,8 +17,8 @@
     <properties>
         <maven.compiler.source>8</maven.compiler.source>
         <maven.compiler.target>8</maven.compiler.target>
-        <spring.boot.version>2.6.11</spring.boot.version>
-        <spring-cloud.version>2020.0.3</spring-cloud.version>
+        <spring.boot.version>2.7.5</spring.boot.version>
+        <spring-cloud.version>2021.0.4</spring-cloud.version>
         <spring-cloud-alibaba.version>2021.1</spring-cloud-alibaba.version>
         <!-- maven.build.timestamp.format表示属性{maven.build.timestamp}的展示格式,默认值为yyyyMMdd-HHmm,可自定义其格式, -->
         <maven.build.timestamp.format>yyyy-MM-dd HH:mm:ss</maven.build.timestamp.format>
